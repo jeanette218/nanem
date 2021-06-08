@@ -1,7 +1,25 @@
 # nanem
 Capstone Project Bangkit Academy
 
-# How to use
+# Table of contents
+1. [How to use](#use)
+2. [Scan](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
+
+# How to use <a name="use"></a>
 1. Open the application
 2. Scan your soil
 3. Pick your future seeds
@@ -12,8 +30,8 @@ Capstone Project Bangkit Academy
 
 Voila, you can grow your own plant!
 
-# Scan
-There are 4 classfication in nanem, which are
+# Scan <a name="introduction"></a>
+There are currently 4 classfication in nanem, which are
 
 Alluvial
 
